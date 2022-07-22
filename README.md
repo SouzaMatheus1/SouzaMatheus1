@@ -1,8 +1,6 @@
 ### ***Bem vindo! 👽🖖***
 ### ***Welcome! 👽🖖***
 
-![abacate](https://conteudo.imguol.com.br/c/entretenimento/61/2022/06/09/peaky-blinders-1654788797004_v2_1x1.jpg)
-
 <!--
 **SouzaMatheus1/SouzaMatheus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
