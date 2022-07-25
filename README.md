@@ -1,7 +1,7 @@
 ### ***Bem vindo! 👽🖖***
 ### ***Welcome! 👽🖖***
 
-![gif](https://media4.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e47oq76bgmcj4xv1s5drg9cfgq0vpuyf26kf4ffmno5&rid=giphy.gif&ct=g)
+![gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 <!--
 **SouzaMatheus1/SouzaMatheus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
