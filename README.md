@@ -1,7 +1,7 @@
 ### ***Bem vindo! 👽🖖***
 ### ***Welcome! 👽🖖***
 
-![https://c.tenor.com/XDAe8PDHSIMAAAAM/downsign-qr-code.gif](name-of-giphy.gif)
+![gif](https://c.tenor.com/XDAe8PDHSIMAAAAM/downsign-qr-code.gif)
 
 <!--
 **SouzaMatheus1/SouzaMatheus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
