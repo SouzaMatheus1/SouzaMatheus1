@@ -3,6 +3,9 @@
 
 ![gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzamatheus1&hide=issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **SouzaMatheus1/SouzaMatheus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
