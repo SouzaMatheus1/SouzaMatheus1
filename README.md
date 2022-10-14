@@ -13,12 +13,10 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> 
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"> 
-<img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"> 
 </p>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">  
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -28,7 +26,9 @@
 </p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=souzamatheus1&hide=issues,contribs&show_icons=true&theme=radical"></p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=souzamatheus1&hide=issues,contribs&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzamatheus1&layout=compact&theme=radical" style='width:32%'></p>
 <!--
 **SouzaMatheus1/SouzaMatheus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
