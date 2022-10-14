@@ -28,7 +28,7 @@
 </p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=souzamatheus1&hide=issues,contribs&show_icons=true&theme=radical"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=souzamatheus1&hide=issues,contribs&show_icons=true&theme=radical"></p>
 <!--
 **SouzaMatheus1/SouzaMatheus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
