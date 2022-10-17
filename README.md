@@ -2,7 +2,7 @@
 
 
 
-<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"> </p>
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" style="width:600px"> </p>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">  
