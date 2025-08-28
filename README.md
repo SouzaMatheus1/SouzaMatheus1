@@ -8,7 +8,7 @@
 
 ### 💻 Sobre Mim
 
-Sou um desenvolvedor de software apaixonado por tecnologia. Atualmente, estou focado em... (ex: `desenvolvimento web com foco em front-end`) e sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Gosto de resolver problemas complexos e criar soluções eficientes e robustas.
+Sou um desenvolvedor de software apaixonado por tecnologia. Atualmente, estou focado em desenvolvimento back-end e sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ### 🛠️ Minhas Habilidades
 
@@ -29,8 +29,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ### 🚀 Projetos Recentes
 
-- 🔭 Atualmente, estou trabalhando em... (ex: `um sistema de verificação de clima em NodeJs`).
-- 🌱 Estou aprendendo sobre... (ex: `desenvolvimento com Firestoret`).
+- 🔭 Atualmente, estou trabalhando em um sistema de verificação de clima em NodeJs.
+- 🌱 Estou aprendendo sobre desenvolvimento com Firestore e banco de dados não relacional.
 
 ---
 
