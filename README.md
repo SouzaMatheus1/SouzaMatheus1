@@ -30,6 +30,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ### 🚀 Projetos Recentes
 
 - 🔭 Atualmente, estou trabalhando em um sistema de verificação de clima em NodeJs.
+- 📚 Em paralelo, estou trabalhando em uma lista de afazeres com Typescript.
 - 🌱 Estou aprendendo sobre desenvolvimento com Firestore e banco de dados não relacional.
 
 ---
